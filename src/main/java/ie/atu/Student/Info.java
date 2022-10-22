@@ -1,7 +1,6 @@
 package ie.atu.Student;
 
-public class info {
-
+public class Info {
     private String Student_Name;
     private String Student_Email;
     private String Student_Course;
