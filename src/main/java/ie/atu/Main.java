@@ -41,6 +41,11 @@ public class Main {
         Student2.setStudent_Course(Student_Course2);
         System.out.println("You entered :" + Student2.getStudent_Course() );
 
+        Info Student3 = new Info(Student,Student2);
+        System.out.println("You entered :" + Student3.getStudent_Name() );
+        System.out.println("You entered :" + Student3.getStudent_Email() );
+        System.out.println("You entered :" + Student3.getStudent_Email() );
+
 
 
 

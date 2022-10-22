@@ -5,6 +5,21 @@ public class Info {
     private String Student_Email;
     private String Student_Course;
 
+
+
+    public Info(String Student_Name, String Student_Email,String Student_Course) {
+
+        this.Student_Name = Student_Name;
+        this.Student_Email = Student_Email;
+        this.Student_Course = Student_Course;
+
+
+
+    }
+
+
+
+
     public String getStudent_Name() {
         return Student_Name;
     }

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3cbf021-b753-495b-8f74-02e7ad6e92c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Student/Info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Student/info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Student/Info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Student/Info.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,7 @@
       <updated>1666364011370</updated>
       <workItem from="1666364012531" duration="1369000" />
       <workItem from="1666449777806" duration="3522000" />
-      <workItem from="1666461048021" duration="2789000" />
+      <workItem from="1666461048021" duration="5270000" />
     </task>
     <task id="LOCAL-00001" summary="new project StudentApp created">
       <created>1666450560107</created>
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666461750966</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created three instances of Info">
+      <created>1666464002950</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666464002950</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +128,7 @@
     <MESSAGE value="new project StudentApp created" />
     <MESSAGE value="added prompt for name/email/course" />
     <MESSAGE value="added new class called info" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new class called info" />
+    <MESSAGE value="Created three instances of Info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created three instances of Info" />
   </component>
 </project>
